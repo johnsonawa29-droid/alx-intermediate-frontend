@@ -1,0 +1,6 @@
+1. install node.js version 20.16
+* nvm install 20.16.0
+2 install scss
+* npm install -g sass
+3 verify the version using this commend
+* npx sass --version
